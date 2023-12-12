@@ -24,7 +24,7 @@
 <h3 align="center">About me</h3>
 
 <p align="center"> Hello! I'm Pedro and i'm 20 years old. I'm living in Barcelona.
-I'm an apassionate Backend developer. I have studied DAM (Cross-Platform Application Development). I'm currently looking for a job and also new and exciting goals. Learning from my mistakes and improving my successes to give my best!</p>
+I'm an apassionate Backend developer. I have studied DAM (Cross-Platform Application Development). I'm currently looking for a job and also new and exciting challenges. Learning from my mistakes and improving my successes to give my best!</p>
 
 
 
